@@ -1,5 +1,11 @@
 # Stefano-Mori
 
-Primo progetto
+## Corso attuale
 
-[Instagram](https://instagram.com)
+3D Game Art
+
+## Competenza principale
+
+#### Web Developement
+
+CSS, HTML, Javascript, Bootstrap
